@@ -124,7 +124,7 @@ namespace Hangman
                     if (chosenName == guessedName)
                     {
 
-                        Console.WriteLine("Congratulations, you have guess the word");
+                        Console.WriteLine("Congratulations, you have guessed the word");
 
                     }
                 
